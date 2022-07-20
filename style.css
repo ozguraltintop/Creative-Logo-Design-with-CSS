@@ -1,0 +1,55 @@
+
+  body
+  {
+    background-color:#E38F66;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+  }
+  .outer {
+    width: 200px;
+    height: 200px;
+    background: #AA445F;
+    border-radius:50%;
+    display:grid;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+ 
+    
+  
+  }
+
+   .inner{
+    width:78px;
+    aspect-ratio:1;
+	border-radius:50%;
+    border:32px solid #F7EC7D; 
+ 
+    
+  }
+  
+  .one{
+    width:100px;
+    aspect-ratio:1;
+    background:blue;
+    position:absolute ;
+    top:50px;
+    left:100px;
+    background:#AA445F;
+    border-radius: 100px 0 0 ;
+    
+  }
+  .two{
+ 	width:100px;
+    aspect-ratio:1;
+    background:red;
+    position:absolute;
+    bottom:50px;
+    right:100px;
+    background:#AA445F;
+    border-radius: 0 0 100px;
+  }
+  
+  
