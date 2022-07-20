@@ -1,4 +1,4 @@
-# Logo Design with CSS | adoo
+# Logo Design with CSS | Circle One
 
 Modern logo design using only css
 
